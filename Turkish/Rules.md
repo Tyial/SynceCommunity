@@ -9,5 +9,4 @@
 - **Kışkırtma:** Kışkırtma amaçlı bir kişiyle dalga geçmek, laf atmak yasaktır.
 - **Tehdit:** Kimseyi tehdit etmeyin.
 
-***Bu kurallar Synce Community'e aittir.***
-***Synce Community:*** `discord.gg/synce`
+***Bu kurallar Synce Community'e aittir.***\n***Synce Community:*** `discord.gg/synce`
