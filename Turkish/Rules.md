@@ -8,3 +8,6 @@
 - **Uygunsuz İçerik:** Yetişkin içerik, cinsel içerik ve şiddet içeren materyallerin sunucuda paylaşılması kesinlikle yasaktır.
 - **Kışkırtma:** Kışkırtma amaçlı bir kişiyle dalga geçmek, laf atmak yasaktır.
 - **Tehdit:** Kimseyi tehdit etmeyin.
+
+***Bu kurallar Synce Community'e aittir.***
+***Synce Community:*** `discord.gg/synce`
